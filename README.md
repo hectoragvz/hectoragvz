@@ -1,1 +1,1 @@
-Currently exploring the spot between [web-dev/swe and ai](https://www.latent.space/p/ai-engineer)
+Into machine learning and data science
