@@ -1,4 +1,4 @@
-## Hey!!
+## Hey !!
 * Currently a CS Master student
 * Into AI and LLMs
 * See my [webiste](https://hectoragvz.github.io/)
