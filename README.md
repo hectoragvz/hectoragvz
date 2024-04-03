@@ -1,6 +1,6 @@
 ## Hey!!
 * Currently a CS Master student
-* Into machine learning and data science
+* Into AI and LLMs
 * See my [webiste](https://hectoragvz.github.io/)
 * See my [blog](https://hectoragvz.substack.com/)
 * Learning to ship fast
