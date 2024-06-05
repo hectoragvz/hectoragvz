@@ -5,6 +5,6 @@
 * See my [blog](https://hectoragvz.substack.com/)
 * Learning to ship fast
 * Django + React
-* [whisperingwallet.com](https://whisperingwallet.com)
+* [whisperingwallet.com](https://www.whisperingwallet.com/)
 
 Heavily interested in full-stack swe and developing around LLMs
