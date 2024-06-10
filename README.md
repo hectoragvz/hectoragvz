@@ -5,6 +5,8 @@
 * See my [blog](https://hectoragvz.substack.com/)
 * Learning to ship fast
 * Django + React -> TypeScript + Go
+* * [studyfast.io](https://studyfast.io/)
 * [whisperingwallet.com](https://www.whisperingwallet.com/)
+
 
 Heavily interested in full-stack swe and developing around LLMs
