@@ -1,7 +1,5 @@
 ## Hey
 
-RL
-
 ### Latest
 
 - [Pufferosaurus](hectoragvz.com/pufferosaurus) - a chrome-inspired dino agent that jumps over obstacles trained with reinforcement learning
